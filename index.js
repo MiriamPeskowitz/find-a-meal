@@ -1,4 +1,6 @@
 
+//Next feature: add a save button, then you call up what you need. 
+
 // window.onload = () => {
 	const get_meal_btn = document.getElementById('get-meal')
 	const meal_container = document.getElementById('meal')
